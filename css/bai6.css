@@ -1,0 +1,56 @@
+.phan1{
+	background: orange;
+	text-align: center;
+}
+.phan2{
+	background:yellow ;
+	margin: 0 auto;  width: 600px;
+	
+	
+	
+}
+.p1{
+	background: pink;
+	float: left;
+	margin-right: 20px;
+	padding: 50px;
+	border-radius: 10px ;
+}
+.p2{
+	background: red;
+	float: left;
+	margin-right: 20px;
+	padding: 50px;
+	border-radius: 10px ;
+
+}
+.p3{
+	background: green;
+	float: left;
+	margin-right: 20px;
+	padding: 50px;
+	border-radius: 10px ;
+}
+.p4{
+	background: violet;
+	float: left;
+	margin-right: 20px;
+	padding: 50px;
+	border-radius: 10px ;
+}
+.hoc1 {
+	text-decoration: none;
+	color: red;
+}
+.hoc2 {
+	text-decoration: none;
+	color: white;
+}
+.hoc3 {
+	text-decoration: none;
+	color: white;
+}
+.hoc4 {
+	text-decoration: none;
+	color: blue;
+}

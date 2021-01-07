@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Học web chuẩn</title>
+<style>
+  /* Reset */
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  ul {
+    list-style: none;
+  }
+  body {
+    color: #333;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+  }  
+
+  /* Layout */
+  /* dịch chuyển toàn bộ thành phần canh giữa, nhưng không ảnh hưởng các thành phần con bên trong.*/
+  .best-shared {
+    margin: 20px auto;
+     width: 800px;
+    text-align: center;
+   
+  }
+  .logo {
+    margin-bottom: 15px;
+
+  }
+  .best-shared h2 {
+    font-size: 45px;
+    font-weight: normal;
+    margin-bottom: 25px;
+  }
+  .best-shared h2 strong {
+    color: red;
+    font-weight: 600;
+  }
+  .lead-text {
+    margin-bottom: 40px;
+
+  }
+  .btn-list {
+    text-align: center;
+  }
+  /* */
+  .btn-list li {
+
+    display: inline;
+    margin-right: 12px;
+    
+   
+  }
+  .btn-list li a {
+    background-color: red;
+    border-radius: 40px;
+    color: yellow;
+    display: inline-block;
+    height: 56px;
+    line-height: 50px;
+    min-width: 150px;
+    text-decoration: none;
+    /* hieu ung khi dua chuot vao di kem voi "hover"*/
+    transition: 0.3s background:blue;
+
+  }
+  .btn-list li a:hover {
+    background-color: #00aeef;
+    
+  }
+</style>
+</head>
+
+<body>
+  <section class="best-shared">
+    <p class="logo"><img src="../hinh/logo.jpg" alt=""></p>
+    <h2>Best <strong>Shared Hosting</strong> Company</h2>
+    <p class="lead-text">With this responsive landing page template, you can promote your all hosting, domain and email services.</p>
+    <ul class="btn-list">
+      <li><a href="./">View Plans</a></li>
+      <li><a href="./">All Features</a></li>
+    </ul>
+  </section>
+</body>
+</html>

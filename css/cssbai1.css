@@ -1,0 +1,40 @@
+
+ .best-shared {
+
+    text-align: center;
+   
+  }
+  .logo img{
+  
+  	width: 100px;
+	height: 100px;
+  }
+
+h2 strong{
+	color: blue;
+}
+
+li {
+	display: inline;
+	border:1px double red;
+	padding: 1% 1%;
+	background: yellow;
+	margin-right: 20px;
+	transition: 0.5 ;
+	
+}
+a{
+	transition: 0.5 ;
+}
+a:hover{
+	font-size: 100%;
+	
+}
+
+ li:hover{
+	background-color: violet;
+
+	border:;
+
+}
+

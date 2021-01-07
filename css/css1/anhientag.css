@@ -1,0 +1,33 @@
+/* .tag ul{
+   
+    border: solid red;
+    
+} */
+.tag ul li{
+    list-style-type: none;
+    /* khi chi con chuột vào chữ sẽ tao thành bàn tay */
+    cursor: pointer;
+    display: inline;
+    margin: 10px;
+    padding: 10px;
+    background-color: orange;
+    border: solid;
+    border-color: rgb(92, 39, 153);
+    font-size:40px;
+
+}
+.text{
+    border: 3px solid #eee;
+    height: 200px;
+    margin-top: 5px;
+    padding: 10px;
+    width: 600px;
+}
+ .box{
+    display: none;
+   
+    /* font-size:40px;
+    border: solid;
+    width: 500px;
+    height: 300px; */
+}

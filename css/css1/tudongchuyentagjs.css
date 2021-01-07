@@ -1,0 +1,19 @@
+.list {
+   
+    background-color: chartreuse;
+}
+.list li{
+    border: 3px rgb(109, 11, 40) solid;
+    background-color: chocolate;
+    color: cornsilk;
+    text-align: center;
+}
+.btn .btn-btn{
+    background-color: orange;
+    float: left;
+    cursor: pointer;
+    margin: 15px;
+    width: 100px;
+    height: 30px;
+    /* display: none; */
+}

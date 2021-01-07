@@ -1,0 +1,28 @@
+.text{
+    background-color: darkgrey;
+    border:solid;
+    border: darkred;
+    padding: 5px;
+}
+.text .item{
+    border: solid;
+    /* list-style-type: none; */
+}
+ li{
+    text-decoration: none;
+    /* list-style-type: none; */
+}
+.btn-add ,.btn-remove {
+    border: solid;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 14px;
+    margin: 10px;
+}
+/* .btn-remove {
+    border: solid;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 14px;
+    margin: 10px;
+} */

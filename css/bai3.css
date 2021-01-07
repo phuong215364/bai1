@@ -1,0 +1,32 @@
+
+.back{
+	height: 500px;
+	background: #a4a4a4;
+	text-align: center;
+}
+.icon img{
+ 	margin-top: 20px;
+	height: 70px;
+	width: 100px;
+}
+ .enter{
+ 	border-radius: 10px;
+	height: 40px;
+	width: 200px;
+}
+.request{
+	margin-top: 10px;
+	background-color: #5AF7E2;
+	height: 40px;
+	border-radius: 10px;
+	
+	
+	}
+	  .request{
+		transition:  2s;
+	}
+	  .request:hover{
+		width: 200px;
+		background-color: red;
+		
+	}
