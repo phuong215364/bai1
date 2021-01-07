@@ -1,0 +1,349 @@
+
+blockquote {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #333333
+	margin-right: 0px;
+	margin-left: 20px;
+}
+ol {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #333333
+}
+.rightcoltext ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #333333;
+	margin-left: 15px;
+	list-style-image: url(ckm_files/ckm_bullitt3.gif);
+}
+.centercoltext ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	
+}
+.leftcoltext ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #333333;
+	margin-left: 13px;
+	list-style-image: url(ckm_files/ckm_bullitt2.gif);
+}
+
+body {
+	background-color: #6e6c73;/*themecolour4;*/
+	color: #000000;/*themecolour9%0;*/
+
+}
+.topstrip {
+	PADDING-BOTTOM: 5px; FONT: bold 10px Arial, Verdana, Helvetica, sans-serif; COLOR: #008080; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.rightcolbg {
+	background-color: #b5c1e4;/*themecolour1$ 79.3%, -10.5%;*/
+
+}
+.hnavbg {
+	background-image: url(ckm_files/ckm_hnav_bg.gif);
+	background-repeat: repeat-x;
+}
+
+.leftcolumnbg {
+	background-color: #476C96;
+	padding-left: 0px;
+	padding-right: 0px;
+
+}
+
+.topleft {
+	background-color: #6e6c73;/*themecolour4;*/
+}
+.parabg {
+	background-image: url(ckm_files/ckm_para_bg.gif);
+	background-repeat: repeat-x;
+}
+.leftcoltext {
+	color: #333333;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.centercoltext {
+	color: #000000;
+	background-color: #d3c2c2;
+	padding-right: 0px;
+	padding-left: 10px;
+}
+
+.rightcoltext {
+	padding-left: 10px;
+	padding-right: 10px;
+	color: #333333;
+}
+.centercoltext a:link {
+	color: #022dad;/*themecolour1$ 1.1%, -32.4%;*/
+}
+.centercoltext a:visited {
+	color: #000000;/*themecolour9%0;*/
+}
+.centercoltext a:link:hover {
+	color: #0ba805;/*themecolour2$ 1.1%, -24.3%;*/
+}
+.leftcoltext a:link {
+	color: #022dad;/*themecolour1$ 1.1%, -32.4%;*/
+}
+.leftcoltext a:visited {
+	color: #000000;/*themecolour9%0;*/
+}
+.leftcoltext a:link:hover {
+	color: #0ba805;/*themecolour2$ 1.1%, -24.3%;*/
+}
+.rightcoltext a:link {
+	color: #022dad;/*themecolour1$ 1.1%, -32.4%;*/
+}
+.rightcoltext a:visited {
+	color: #000000;/*themecolour9%0;*/
+}
+.rightcoltext a:link:hover {
+	color: #0ba805;/*themecolour2$ 1.1%, -24.3%;*/
+}
+.topcell {
+	background-color: #d3c2c2;/*themecolour9;*/
+	FONT:   15px; COLOR: #ff0000; FONT-FAMILY: Times New Roman, Arial, Verdana , Helvetica, sans-serif; 
+
+}
+.footer {
+	font-size: 8pt;
+	color: #FFFFFF;
+	padding-top: 5px;
+}
+}
+
+
+.titlel {
+	FONT: bold  Arial, Verdana, Helvetica, sans-serif; COLOR: #ff0000; TEXT-DECORATION: none
+}
+.titlel A:link{
+	FONT: bold  Arial, Verdana, Helvetica, sans-serif; COLOR: #ff0000; TEXT-DECORATION: none
+}
+.titlel A:visited{
+	FONT: bold  Arial, Verdana, Helvetica, sans-serif; COLOR: #ff0000; TEXT-DECORATION: none
+}
+.titlel A:hover{
+	FONT: bold  Arial, Verdana, Helvetica, sans-serif; COLOR: #9900cc; TEXT-DECORATION: none
+}
+
+.cdt_title {
+	FONT: bold   Tahoma,Times New Roman, Arial, Verdana, Helvetica, sans-serif; COLOR: #ffffff; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.cdt_title A:link {
+	FONT: bold   Tahoma,Times New Roman, Arial, Verdana, Helvetica, sans-serif; COLOR: #ffffff; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.cdt_title A:visited {
+	FONT: bold   Tahoma,Times New Roman, Arial, Verdana, Helvetica, sans-serif; COLOR: #ffffff; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.cdt_title A:hover {
+	FONT: bold   Tahoma,Times New Roman,Arial, Verdana, Helvetica, sans-serif; COLOR: #ffffff; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.cdt_titler {
+	FONT: bold 14px  Tahoma,Times New Roman, Arial, Verdana, Helvetica, sans-serif;  TEXT-DECORATION: none
+}
+.cdt_titler A:link {
+	FONT: bold 14px  Tahoma,Times New Roman, Arial, Verdana, Helvetica, sans-serif;  TEXT-DECORATION: none
+}
+.cdt_titler A:visited {
+	FONT: bold 14px  Tahoma,Times New Roman, Arial, Verdana, Helvetica, sans-serif;  TEXT-DECORATION: none
+}
+.cdt_titler A:hover {
+	FONT: bold 14px  Tahoma,Times New Roman,Arial, Verdana, Helvetica, sans-serif;   TEXT-DECORATION: none
+}
+.cdt_titler2 {
+	FONT: bold 14px  Tahoma,Times New Roman, Arial, Verdana, Helvetica, sans-serif; COLOR: #993366; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.cdt_titler2 A:link {
+	FONT: bold 14px  Tahoma,Times New Roman, Arial, Verdana, Helvetica, sans-serif; COLOR: #993366; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.cdt_titler2 A:visited {
+	FONT: bold 14px  Tahoma,Times New Roman, Arial, Verdana, Helvetica, sans-serif; COLOR: #993366; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.cdt_titler2 A:hover {
+	FONT: bold 14px  Tahoma,Times New Roman,Arial, Verdana, Helvetica, sans-serif; COLOR: #993366; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.cdt_titler3 {
+	FONT: bold 14px  Tahoma,Times New Roman, Arial, Verdana, Helvetica, sans-serif; COLOR: #993366; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.cdt_titler3 A:link {
+	FONT: bold 14px  Tahoma,Times New Roman, Arial, Verdana, Helvetica, sans-serif; COLOR: #993366; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.cdt_titler3 A:visited {
+	FONT: bold 14px  Tahoma,Times New Roman, Arial, Verdana, Helvetica, sans-serif; COLOR: #993366; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.cdt_titler3 A:hover {
+	FONT: bold 14px  Tahoma,Times New Roman,Arial, Verdana, Helvetica, sans-serif; COLOR: #993366; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.cdt_titler_left {
+	FONT: bold 14px  Tahoma,Times New Roman, Arial, Verdana, Helvetica, sans-serif; COLOR: #ffffff; PADDING-TOP: 3px; TEXT-DECORATION: none
+}
+
+
+.cdt_menur {
+	background-color: #FFF2D7;PADDING-BOTTOM: 5px; FONT: bold 11px Arial, Verdana, Helvetica, sans-serif; COLOR: #008080; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_menur A:link {
+	PADDING-BOTTOM: 5px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #008080; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_menur A:visited {
+	PADDING-BOTTOM: 5px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #008080; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_menur A:hover {
+	PADDING-BOTTOM: 5px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #ff3399; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: underline
+}
+
+.cdt_menul {
+	PADDING-BOTTOM: 4px; FONT: bold 12px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #ffffff; PADDING-TOP: 4px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_menul A:link {
+	PADDING-BOTTOM: 4px; FONT: bold 12px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #ffffff; PADDING-TOP: 4px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_menul A:visited {
+	PADDING-BOTTOM: 4px; FONT: bold 12px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #ffffff; PADDING-TOP: 4px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_menul A:hover {
+	PADDING-BOTTOM: 4px; FONT: bold 12px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #ffff00; PADDING-TOP: 4px; padding-left: 5px; TEXT-DECORATION: underline
+}
+
+.cdt_menur2 {
+	background-color: #ccffff;PADDING-BOTTOM: 5px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #9900cc; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_menur2 A:link {
+	PADDING-BOTTOM: 5px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #9900cc; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_menur2 A:visited {
+	PADDING-BOTTOM: 5px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #9900cc; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_menur2 A:hover {
+	PADDING-BOTTOM: 5px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #FF00FF; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: underline
+}
+.cdt_menur3 {
+	background-color: #ccffff;PADDING-BOTTOM: 4px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #008080; PADDING-TOP: 4px; padding-left: 0px; TEXT-DECORATION: none
+}
+.cdt_menur3 A:link {
+	PADDING-BOTTOM: 4px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #008080; PADDING-TOP: 4px; padding-left: 0px; TEXT-DECORATION: none
+}
+.cdt_menur3 A:visited {
+	PADDING-BOTTOM: 4px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #008080; PADDING-TOP: 4px; padding-left: 0px; TEXT-DECORATION: none
+}
+.cdt_menur3 A:hover {
+	PADDING-BOTTOM: 4px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #ff9933; PADDING-TOP: 4px; padding-left: 0px; TEXT-DECORATION: underline
+}
+/*************** dung cho trang dien tu- vi mach so **********************/
+.cdt_menu_dt {
+	background-color: #FFF2D7;PADDING-BOTTOM: 4px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #008080; PADDING-TOP: 4px; padding-left: 0px; TEXT-DECORATION: none
+}
+.cdt_menu_dt A:link {
+	PADDING-BOTTOM: 4px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #008080; PADDING-TOP: 4px; padding-left: 0px; TEXT-DECORATION: none
+}
+.cdt_menu_dt A:visited {
+	PADDING-BOTTOM: 4px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #008080; PADDING-TOP: 4px; padding-left: 0px; TEXT-DECORATION: none
+}
+.cdt_menu_dt A:hover {
+	PADDING-BOTTOM: 4px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #ff3399; PADDING-TOP: 4px; padding-left: 0px; TEXT-DECORATION: underline
+}
+
+.cdt_tin_lenh {
+	PADDING-BOTTOM: 5px; FONT: bold 13px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #993366; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_tin_lenh A:link {
+	PADDING-BOTTOM: 5px; FONT: bold 13px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #993366; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_tin_lenh A:visited {
+	PADDING-BOTTOM: 5px; FONT: bold 13px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #993366; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_tin_lenh A:hover {
+	PADDING-BOTTOM: 5px; FONT: bold 13px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #993366; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: underline
+}
+
+.cdt_tin_cd {
+	PADDING-BOTTOM: 5px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #008080; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_tin_cd A:link {
+	PADDING-BOTTOM: 5px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #008080; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_tin_cd A:visited {
+	PADDING-BOTTOM: 5px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #008080; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_tin_cd A:hover {
+	PADDING-BOTTOM: 5px; FONT: bold 11px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #008080; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: underline
+}
+
+.cdt_tin_table {
+	PADDING-BOTTOM: 5px; FONT: bold 13px Arial, Verdana, Times New Roman, Helvetica, sans-serif; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_tin_table A:link {
+	PADDING-BOTTOM: 5px; FONT: bold 13px Arial, Verdana, Times New Roman, Helvetica, sans-serif; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_tin_table A:visited {
+	PADDING-BOTTOM: 5px; FONT: bold 13px Arial, Verdana, Times New Roman, Helvetica, sans-serif; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: none
+}
+.cdt_tin_table A:hover {
+	PADDING-BOTTOM: 5px; FONT: bold 13px Arial, Verdana, Times New Roman, Helvetica, sans-serif; PADDING-TOP: 5px; padding-left: 5px; TEXT-DECORATION: underline
+}
+
+.cdt_tin {
+	 PADDING-LEFT: 3px;PADDING-RIGHT: 3px;FONT:   Verdana,Arial, Times New Roman,  Helvetica, sans-serif; COLOR: #000000;line-height:120%;font-weight: 500;  TEXT-DECORATION: none
+}
+.cdt_tin A:link {
+	PADDING-LEFT: 3px;PADDING-RIGHT: 3px;FONT:  Verdana,Arial, Times New Roman,  Helvetica, sans-serif; COLOR: #0000ff;line-height:120%;font-weight: 500;  TEXT-DECORATION: none
+}
+.cdt_tin A:visited {
+	PADDING-LEFT: 3px;PADDING-RIGHT: 3px;FONT:  Verdana,Arial, Times New Roman,  Helvetica, sans-serif; COLOR: #9900cc;line-height:120%;font-weight: 500; TEXT-DECORATION: none
+}
+.cdt_tin A:hover {
+	PADDING-LEFT: 3px;PADDING-RIGHT: 3px;FONT:  Verdana,Arial, Times New Roman,  Helvetica, sans-serif; COLOR: #c20000;line-height:120%;font-weight: 500;  TEXT-DECORATION: underline
+}
+.next {
+	PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; FONT:  16px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #000000; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.next A:link {
+	PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; FONT: 16px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #336600; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.next A:visited {
+	PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; FONT:  16px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #336600; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.next A:hover {
+	PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; FONT:  16px Arial, Verdana, Times New Roman, Helvetica, sans-serif; COLOR: #ff0000; PADDING-TOP: 5px; TEXT-DECORATION: underline
+}
+.info {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Arial,Verdana, Times New Roman, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.short_news {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #993300; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial,Verdana, Helvetica, sans-serif; 
+}
+.posted_date {
+	FONT-SIZE: 8pt; COLOR: #808080; FONT-FAMILY: Arial; TEXT-ALIGN: left
+}
+.out {
+	BORDER-RIGHT: #0099ff 1px solid; BORDER-TOP: #0099ff 1px solid; FONT-SIZE: 12px; Z-INDEX: 5; PADDING-BOTTOM: 1px; BORDER-LEFT: #0099ff 1px solid; WIDTH: 100%; COLOR: #0099ff; TEXT-INDENT: 4px; PADDING-TOP: 1px; BORDER-BOTTOM: #0099ff 1px solid; FONT-FAMILY: "Courier New", Courier, mono; BACKGROUND-COLOR: #99ccff; TEXT-ALIGN: center;TEXT-DECORATION: none
+}
+.out a:link {
+	BORDER-RIGHT: #0099ff 1px solid; BORDER-TOP: #0099ff 1px solid; FONT-SIZE: 12px; Z-INDEX: 5; PADDING-BOTTOM: 1px; BORDER-LEFT: #0099ff 1px solid; WIDTH: 100%; COLOR: #0099ff; TEXT-INDENT: 4px; PADDING-TOP: 1px; BORDER-BOTTOM: #0099ff 1px solid; FONT-FAMILY: "Courier New", Courier, mono; BACKGROUND-COLOR: #99ccff; TEXT-ALIGN: center;TEXT-DECORATION: none
+}
+.out a:hover {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 12px; Z-INDEX: 5; PADDING-BOTTOM: 1px; BORDER-LEFT: #000000 1px solid; WIDTH: 100%; COLOR: #0099ff; TEXT-INDENT: 4px; PADDING-TOP: 1px; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: "Courier New", Courier, mono; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center;TEXT-DECORATION: none
+}
+.ckm_menul {
+	background-color: #5F7FBF;PADDING-BOTTOM: 0px; FONT:bold 12px   Arial,Verdana, Helvetica, sans-serif; COLOR: #ffffff; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.ckm_menul A:link {
+	PADDING-BOTTOM: 0px; FONT:bold 12px   Arial,Verdana, Helvetica, sans-serif; COLOR: #ffffff; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.ckm_menul A:visited {
+	PADDING-BOTTOM: 0px; FONT:bold 12px   Arial,Verdana, Helvetica, sans-serif; COLOR: #ffffff; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.ckm_menul A:hover {
+	BORDER-RIGHT: #ffff99 0px solid; BORDER-TOP: #ffff99 0px solid; FONT-SIZE: 12px; Z-INDEX: 5; PADDING-BOTTOM: 0px; BORDER-LEFT: #ffff99 0px solid; WIDTH: 100%; COLOR: #0099ff; TEXT-INDENT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #000000 0px solid; FONT-FAMILY: Arial,Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #fff2d7; TEXT-ALIGN: center;TEXT-DECORATION: none
+}
+A.ssmItems:link		{FONT: bold 10px;color:black;text-decoration:none;}
+A.ssmItems:hover	{FONT: bold 10px;color:black;text-decoration:none;}
+A.ssmItems:active	{FONT: bold 10px;color:black;text-decoration:none;}
+A.ssmItems:visited	{FONT: bold 10px;color:black;text-decoration:none;}
